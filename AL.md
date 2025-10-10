@@ -3,14 +3,14 @@
 ## Project Info
 - **Project Title:** GPA Analysis by various factors
 - **Your Name:** Alexis Luebke
-- **Date:** 10/08/2025
+- **Date:** 10/10/2025
 
 ---
 
 ## Survey Information
 - **Survey Topic:** GPA and several minor variables that may or may not affect GPA
 - **Survey Link:** [Click here to view survey](https://docs.google.com/forms/d/e/1FAIpQLSfKPH3608lIhK0XIek_L0mhZelqYuEqBPv4e7sTR22uOvEgIA/viewform?usp=dialog)
-- **Number of Responses:** 7
+- **Number of Responses:** 7 real, 20 generated
 
 ---
 
@@ -59,11 +59,11 @@ the majority of the data was generated junk data.
 ## Reflection
 Answer briefly:
 - What went well in your project? 
-mostly everything
+Mostly everything
 - What was the most challenging part?
-um probably finding questions, although I don't really think that these ones are that good.
+Um probably finding questions, although I don't really think that these ones are that good.
 - If you had more time, what would you do differently?
-not sure, maybe make the graphs look a bit prettier?
+Not sure, maybe make the graphs look a bit prettier? Make more graphs or try to get more real responses perhaps. 
 
 ---
 
